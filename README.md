@@ -1,2 +1,2 @@
-# ProjectRedes2
-Projeto da disciplina "Redes de Computadores II"
+# ProjectComputerNetworks2
+Computer Networks 2 course project
